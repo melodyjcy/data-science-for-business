@@ -1,2 +1,2 @@
-# NYU_DATA-SCIENCE-FOR-BIZ
+# TECH-GB-DATA-SCIENCE-FOR-BIZ
 2336 Data Science for Business: Technical
